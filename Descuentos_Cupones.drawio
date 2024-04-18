@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T01:51:50.925Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wIxSL4R3JaujdBB-FaBX" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T01:54:49.805Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IV8TQBdI319xWkwjykkF" version="24.2.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3993" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -433,6 +433,24 @@
         </mxCell>
         <mxCell id="joyKX0jnolx2iXbsey3s-155" value="Tener" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1215" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="joyKX0jnolx2iXbsey3s-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="joyKX0jnolx2iXbsey3s-157" target="joyKX0jnolx2iXbsey3s-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joyKX0jnolx2iXbsey3s-157" value="Requisitos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-145" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joyKX0jnolx2iXbsey3s-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="joyKX0jnolx2iXbsey3s-159" target="joyKX0jnolx2iXbsey3s-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joyKX0jnolx2iXbsey3s-159" value="NO Requisitos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1075" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joyKX0jnolx2iXbsey3s-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="joyKX0jnolx2iXbsey3s-161" target="joyKX0jnolx2iXbsey3s-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joyKX0jnolx2iXbsey3s-161" value="Descuento&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
